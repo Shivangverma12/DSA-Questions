@@ -15,6 +15,7 @@ public class average
         int num3=sc.nextInt();
         int num4=sc.nextInt();
         findaverage(num1, num2, num3, num4);
+        sc.close();
     }
 
 }
